@@ -38,8 +38,3 @@ permissions:
         default: op
   hg.command.dm:
         default: op
-commands:
-  hg:
-    description: HungerGames main command
-    usage: /hg help
-    aliases: [sg, sw]
